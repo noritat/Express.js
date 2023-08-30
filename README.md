@@ -1,6 +1,6 @@
-# Investigar que es Express con un ejemplo funcional
+# Investigar que es Express.js con un ejemplo funcional
 
-Este proyecto consiste en averiguar las diferentes definiciones de express y dar un ejenmplo para que quede mas claro el concocimiento
+Este proyecto consiste en averiguar las diferentes definiciones de express y dar un ejemplo para que quede mas claro el concocimiento
 
 # Mapa conceptual de Express:
 
