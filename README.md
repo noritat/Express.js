@@ -1,4 +1,4 @@
-# Investigar que es Express / Node con un ejemplo funcional
+# Investigar que es Express en Node con un ejemplo funcional
 
 Este proyecto consiste en averiguar las diferentes definiciones de express y dar un ejemplo para que quede mas claro el concocimiento
 
