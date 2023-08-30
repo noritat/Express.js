@@ -40,9 +40,9 @@ Para ejecutar este proyecto se necesitan los siguientes requisitos:
 - Tener Node descaragado
 - Tener npm descargado 
 - Instalar algunos paquetes en la terminal de Visual Studio Code:
-- ![image](https://github.com/noritat/Express.js/assets/128448216/b627d49b-7224-45a8-ba25-6d2236100160)
+![image](https://github.com/noritat/Express.js/assets/128448216/b627d49b-7224-45a8-ba25-6d2236100160)
 - Lo ejecutamos en la terminal asi:
-- ![image](https://github.com/noritat/Express.js/assets/128448216/e04e4e8c-78d6-467b-be69-1996eed741c1)
+ ![image](https://github.com/noritat/Express.js/assets/128448216/e04e4e8c-78d6-467b-be69-1996eed741c1)
 
 
 
