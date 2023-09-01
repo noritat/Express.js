@@ -1,0 +1,57 @@
+body{
+    background-color: #eee;
+    border-color: #000;
+    border-width: 10px;
+    border-style: solid;
+  height: 902px;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+    margin-top: 134px;
+    width: 227px;
+    height: 77px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content{
+    margin-top: 134px;
+    width: 227px;
+    height: 77px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+label{
+    padding-left: 276px;
+    margin-top: 134px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#link{
+    text-align: center;
+    margin-top: 41px;
+    margin-left: 714px;
+    height: 54px;
+    background: #f0fff3;
+}
+
+#boton{
+    
+    margin-left: 714px;
+    margin-top: 169px;
+    width: 160px;
+    height: 50px;
+    background: cadetblue;
+}
+
+#formulario{
+    border-color: #471772;
+    border-width: 17px;
+    border-style: double;
+    width: 1495px;
+    margin-left: 175px;
+    height: 614px;
+}

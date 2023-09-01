@@ -1,0 +1,77 @@
+body{
+    background: #a8c0ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+    margin-top: 134px;
+    width: 227px;
+    height: 77px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #a8c0ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#content{
+    margin-top: 134px;
+    width: 227px;
+    height: 77px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: #a8c0ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
+    
+}
+label{
+    padding-left: 276px;
+    margin-top: 134px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#link{
+    text-align: center;
+    margin-top: 41px;
+    margin-left: 714px;
+    height: 54px;
+    background: #f0fff3;
+}
+
+#boton{
+    
+    margin-left: 714px;
+    margin-top: 169px;
+    width: 160px;
+    height: 50px;
+    background: cadetblue;
+}
+
+#formulario{
+    border-color: #000000;
+    border-width: 20px;
+    border-style: double;
+    width: 1749px;
+    margin-left: 98px;
+    height: 927px;
+}
+
+#Agregar{
+    text-align: center;
+    margin-top: 232px;
+    margin-left: 904px;
+    height: 54px;
+    background: #f0fff3;
+}
+
+ul{
+    margin-left: 563px; 
+}
